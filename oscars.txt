@@ -1,0 +1,26 @@
+Wings,silent
+The Broadway Melody,musical
+All Quiet on the Western Front,war
+Cimarron,western
+Grand Hotel,drama
+Cavalcade,drama
+It Happened One Night,romance
+Mutiny on the Bounty,adventure
+The Great Ziegfeld,musical
+The Life of Emile Zola,biopic
+You Can't Take It With You,comedy
+Gone with the Wind,epic
+Rebecca,thriller
+How Green Was My Valley,drama
+Mrs. Miniver,war
+Casablanca,drama
+Going My Way,musical
+The Lost Weekend,drama
+The Best Years of Our Lives,war
+Gentleman's Agreement,drama
+Hamlet,drama
+All the King's Men,drama
+All About Eve,drama
+An American in Paris,musical
+The Greatest Show on Earth,epic
+From Here to Eternity,war
