@@ -8,7 +8,7 @@ Wing Editor 7.1.0.2
 
 ## Running the tests
 1. Once the program is executed, user will fist see all the genres and user will be asked to enter a genre
-
 2. When user enters the genre is will show a list of all the movies that were selected for academy awards
-
+![https://github.com/amitvapal/oscars/blob/master/oscars_1.png]
 3. Then user will enter the year between 1928 and 1953. When user presses the enter key than it will show the best picture from that
+![https://github.com/amitvapal/oscars/blob/master/oscars_2.png]
